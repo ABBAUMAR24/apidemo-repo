@@ -1,2 +1,2 @@
 # apidemo-repo
-solem
+solem/
